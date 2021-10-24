@@ -1,0 +1,23 @@
+-- Base16 Summerfruit Light color 
+-- Author: Christopher Corley (http://christop.club/)
+
+local M = {}
+
+M.base00 = "#ffffff" -- ----
+M.base01 = "#e0e0e0" -- ---
+M.base02 = "#d0d0d0" -- --
+M.base03 = "#b0b0b0" -- -
+M.base04 = "#000000" -- +
+M.base05 = "#101010" -- ++
+M.base06 = "#151515" -- +++
+M.base07 = "#202020" -- ++++
+M.base08 = "#ff0086" -- red
+M.base09 = "#fd8900" -- orange
+M.base0A = "#aba800" -- yellow
+M.base0B = "#00c918" -- green
+M.base0C = "#1faaaa" -- aqua/cyan
+M.base0D = "#3777e6" -- blue
+M.base0E = "#ad00a1" -- purple
+M.base0F = "#cc6633" -- brown
+
+return M
