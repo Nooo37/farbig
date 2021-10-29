@@ -4,12 +4,12 @@
 local M = {}
 
 M.base00 = "#1a2026"
-M.base01 = "#1e252c"
+M.base01 = "#242d35"
 M.base02 = "#4e5d6b"
-M.base03 = "#242d35"
-M.base04 = "#ffffff"
-M.base05 = "#ffffff"
-M.base06 = "#ffffff"
+M.base03 = "#526170"
+M.base04 = "#f4f5f2"
+M.base05 = "#f4f5f2"
+M.base06 = "#f4f5f2"
 M.base07 = "#2d3741"
 M.base08 = "#fb6396"
 M.base09 = "#f692b2"
