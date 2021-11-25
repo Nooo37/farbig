@@ -72,6 +72,7 @@ M.all = {
     "brushtrees-dark",
     "brushtrees",
     "chalk",
+    "chocolate",
     "circus",
     "classic-dark",
     "classic-light",
